@@ -11,12 +11,14 @@ ui_*.py
 *.xlsx
 *.csv
 *draft*
+.DS_Store
 
 # Diretórios
 __pycache__
 .temp
 .cache
 .idea
+.venv
 build
 dist
 info
