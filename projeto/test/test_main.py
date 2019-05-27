@@ -1,6 +1,7 @@
 from src.c import *
 from src.g import *
-#from scripts.d import *
+from scripts.d import *
+
 import unittest
 
 
