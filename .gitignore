@@ -1,0 +1,21 @@
+﻿# Arquivos
+*.project
+*.swp
+*.pyc
+*.csv
+*.xlsx
+*.xls
+*.sublime*
+ui_*.py
+*_rc.py
+*.xlsx
+*.csv
+*draft*
+
+# Diretórios
+__pycache__
+build
+dist
+info
+.idea
+.temp
