@@ -14,8 +14,9 @@ ui_*.py
 
 # Diretórios
 __pycache__
+.cache
+.idea
+.temp
 build
 dist
 info
-.idea
-.temp
